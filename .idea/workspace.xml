@@ -44,21 +44,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.data_validation.executor": "Run",
-    "Python.export_to_excel.executor": "Run",
-    "Python.main.executor": "Run",
-    "Python.ocr_extraction.executor": "Run",
-    "Python.ocr_handler (1).executor": "Run",
-    "Python.ocr_handler.executor": "Run",
-    "Python.text_cleaning.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/regin/OneDrive/Desktop/Arron_Regin/Waseda/Projects/InvoiceDataExtraction"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.data_validation.executor&quot;: &quot;Run&quot;,
+    &quot;Python.export_to_excel.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ocr_extraction.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ocr_handler (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.ocr_handler.executor&quot;: &quot;Run&quot;,
+    &quot;Python.text_cleaning.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/regin/OneDrive/Desktop/Arron_Regin/Waseda/Projects/InvoiceDataExtraction&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="Python.ocr_handler">
     <configuration name="data_validation" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="InvoiceDataExtraction" />
@@ -170,6 +170,12 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <list>
+      <item itemvalue="Python.data_validation" />
+      <item itemvalue="Python.export_to_excel" />
+      <item itemvalue="Python.ocr_handler" />
+      <item itemvalue="Python.text_cleaning" />
+    </list>
     <recent_temporary>
       <list>
         <item itemvalue="Python.ocr_handler" />

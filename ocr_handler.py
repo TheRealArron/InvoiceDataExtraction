@@ -46,7 +46,7 @@ def extract_text_from_image(image_path):
         print(f"[INFO] Used advanced preprocessing. Confidence: {adv_conf:.2f}")
         return adv_text
 
-
+#TEST CODE
 if __name__ == "__main__":
     image_path = "invoice_sample.jpg"  # Change path as required
 

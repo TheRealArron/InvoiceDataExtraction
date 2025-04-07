@@ -2,3 +2,6 @@ opencv-python
 pytesseract
 openpyxl
 python-docx
+transformers
+torch
+rapidfuzz

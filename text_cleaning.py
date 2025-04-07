@@ -24,6 +24,7 @@ OCR Text:
         print("Raw output:", result)
         return {}
 
+#TEST CODE
 if __name__ == "__main__":
     test_text = "Invoice Number: 1234\nSupplier: ABC Corp\nTotal: $500.00"
     print(clean_and_structure_text(test_text))

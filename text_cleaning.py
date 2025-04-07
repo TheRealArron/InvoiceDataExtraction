@@ -1,6 +1,6 @@
 from transformers import pipeline
 
-# Load a better instruction-following model
+#Can use a better model like gpt-4
 generator = pipeline("text2text-generation", model="google/flan-t5-large", device=-1)
 
 
@@ -14,7 +14,7 @@ OCR Text:
     result = generator(prompt, max_length=512, do_sample=False)[0]['generated_text']
     print("[INFO] Model returned output.")
 
-    # Optional: Try parsing it into a dict to validate JSON
+
     import json
     try:
         structured_data = json.loads(result)

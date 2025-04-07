@@ -1,6 +1,14 @@
-# .gitignore
-
+# Ignore the virtual environment directory
 .venv/
-.idea/
+
+# Ignore Python cache files
 __pycache__/
 *.pyc
+*.pyo
+
+# Ignore other common unnecessary files
+*.log
+*.sqlite3
+*.db
+*.pid
+*.swp

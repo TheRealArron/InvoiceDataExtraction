@@ -5,16 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8ce2300f-deee-4b6d-a67e-c0b74abd68e5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/InvoiceDataExtraction.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/InvoiceDataExtraction.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ocr_handler.py" beforeDir="false" afterPath="$PROJECT_DIR$/ocr_handler.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/processed_invoice.xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/text_cleaning.py" beforeDir="false" afterPath="$PROJECT_DIR$/text_cleaning.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,21 +35,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.data_validation.executor&quot;: &quot;Run&quot;,
-    &quot;Python.export_to_excel.executor&quot;: &quot;Run&quot;,
-    &quot;Python.main.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ocr_extraction.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ocr_handler (1).executor&quot;: &quot;Run&quot;,
-    &quot;Python.ocr_handler.executor&quot;: &quot;Run&quot;,
-    &quot;Python.text_cleaning.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/regin/OneDrive/Desktop/Arron_Regin/Waseda/Projects/InvoiceDataExtraction&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.data_validation.executor": "Run",
+    "Python.export_to_excel.executor": "Run",
+    "Python.main.executor": "Run",
+    "Python.ocr_extraction.executor": "Run",
+    "Python.ocr_handler (1).executor": "Run",
+    "Python.ocr_handler.executor": "Run",
+    "Python.text_cleaning.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/regin/OneDrive/Desktop/Arron_Regin/Waseda/Certifications/Udemy_CourseMats/files-master/files-master/App-5-Flatmates-Bill-Web-App"
   }
-}</component>
+}]]></component>
   <component name="RunManager" selected="Python.ocr_handler">
     <configuration name="data_validation" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="InvoiceDataExtraction" />
@@ -170,12 +161,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <list>
-      <item itemvalue="Python.data_validation" />
-      <item itemvalue="Python.export_to_excel" />
-      <item itemvalue="Python.ocr_handler" />
-      <item itemvalue="Python.text_cleaning" />
-    </list>
     <recent_temporary>
       <list>
         <item itemvalue="Python.ocr_handler" />
